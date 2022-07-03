@@ -10,7 +10,7 @@ The page is available live [here](https://key16.github.io/Portfolio-v3/)
 
 ![ss1](./Images/ssPortfolio.png)
 ![ss2](./Images/ssPortfolio2.png)
-![ss3](./Images/ssPortfolio3.png)
+![ss3](./Images/ssPortfolio4.png)
 
 ## Table of Contents
 
